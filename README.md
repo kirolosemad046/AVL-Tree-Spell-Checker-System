@@ -1,5 +1,4 @@
 # AVL Tree Spell Checker System
-
 # Description
 A simple spell checker system built using AVL Tree in C.  
 It loads words from a dictionary file and checks spelling in input sentences.
