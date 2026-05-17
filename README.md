@@ -8,7 +8,7 @@ It loads words from a dictionary file and checks spelling in input sentences.
 - Spell checking for sentences
 - Suggestions using nearby words (predecessor & successor)
 - File handling for dictionary loading
-## 🧠 Concepts Used
+## Concepts Used
 - AVL Tree
 - Binary Search Tree
 - Recursion
